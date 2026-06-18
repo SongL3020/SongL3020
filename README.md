@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 嗨，我是 SongL3020！
 
-<!--
-**SongL3020/SongL3020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🐍 贪吃蛇正在吃掉我的贡献图
+![Snake animation](https://github.com/SongL3020/SongL3020/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*(暗色模式可见👇)*
+![Snake animation dark](https://github.com/SongL3020/SongL3020/blob/output/github-contribution-grid-snake-dark.svg)
+
+## 🏙️ 像素城市 (3D 贡献图)
+![3D Profile](https://raw.githubusercontent.com/SongL3020/SongL3020/main/profile-3d-contrib/profile-green-animate.svg)
+
+
+
